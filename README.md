@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm wonyoung
+# 👋 Hello! I'm wonyoung
 
 > 
 
@@ -22,14 +22,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wonzero0&show_icons=true&theme=radical&hide_border=true&bg_color=20,20,20" />
-</p>
-
----
 
 ## 📫 Contact Me
 
-* 💬 Email: 본인 이메일 주소 입력
+* 💬 Email: won00@sch.ac.kr
+* 💬 insta: circle_x0_
